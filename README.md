@@ -1,0 +1,2 @@
+# Sistema-de-Visualizaci-n-3D-y-Detecci-n-de-Colisiones-mediante-Octree-en-C-
+Aplicación desarrollada en C# utilizando OpenTK 1.1 para la carga y renderizado de modelos 3D en formato PLY. Implementa detección de colisiones entre una esfera móvil y un modelo tridimensional mediante subdivisión espacial tipo Octree, visualización de hitboxes, múltiples cámaras y representación gráfica en tiempo real.
