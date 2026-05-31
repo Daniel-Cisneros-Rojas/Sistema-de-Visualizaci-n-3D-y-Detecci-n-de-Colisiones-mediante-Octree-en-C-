@@ -1,4 +1,4 @@
-# Sistema-de-Visualizaci-n-3D-y-Detecci-n-de-Colisiones-mediante-Octree-en-C-
+# Sistema-de-Visualizacion-3D-y-Deteccion-de-Colisiones-mediante-Octree-en-C-
 
 Este proyecto consiste en una aplicación gráfica desarrollada en C# utilizando OpenTK 1.1 y SharpDevelop, enfocada en la representación de modelos tridimensionales, visualización de estructuras espaciales y detección de colisiones en tiempo real.
 
