@@ -16,20 +16,22 @@ Cambio dinámico de color durante eventos de colisión.
 Visualización de distancia mínima a colisión.
 Sistema de iluminación básica.
 Múltiples vistas de cámara para inspección de la escena.
-Compatibilidad con OpenTK 1.1.
 
 #Controles
-Movimiento de la esfera
+
+#Movimiento de la esfera
 Tecla	Acción
 X	Mover sobre eje X
 Y	Mover sobre eje Y
 Z	Mover sobre eje Z
 I	Invertir dirección del movimiento
-Tamaño de la esfera
+
+#Tamaño de la esfera
 Tecla	Acción
 G	Aumentar tamaño
 C	Disminuir tamaño
-Cámaras
+
+#Cámaras
 Tecla	Vista
 1	Frontal
 2	Lateral
